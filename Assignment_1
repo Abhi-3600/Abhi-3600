@@ -121,3 +121,22 @@ int main() {
 
     return 0;
 }
+OUTPUT:
+Choose Account Type:
+1. Savings Account
+2. Current Account
+Enter choice: 1
+customerName :Abhishek
+accountNumber :12400223
+Initial Balance :2000
+Enter amount to deposit: 3000
+Deposit successful.
+Updated balance: 5000
+Enter interest rate (%): 5
+Enter time (in years): 1
+Interest of 250 added.
+Updated balance: 5250
+Enter amount to withdraw: 2250
+Withdrawal successful.
+Updated balance: 3000
+Account Balance: 3000
