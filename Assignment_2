@@ -99,3 +99,19 @@ int main() {
 
     return 0;
 }
+OUTPUT:
+Chequebook facility is available for current accounts... 
+Choose Account Type:
+1. Savings Account
+2. Current Account
+Enter choice: 2
+customerName :Mohit
+accountNumber :1211009
+Initial Balance :4000
+Enter amount to deposit: 1000
+Deposit successful.
+Updated balance: 5000
+Account Balance: 5000
+Enter amount to withdraw: 2000
+Withdrawal successful.
+Updated balance: 3000
